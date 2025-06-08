@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this the file confilct
-=======
-hi new update f filr
->>>>>>> 9c59d6d (new demo)
+hiiiiiiiiiiiii
